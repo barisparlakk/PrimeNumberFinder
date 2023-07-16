@@ -17,17 +17,6 @@ int main() {
 		if (Counter == 2) {
 			cout << i << ", ";
 		}
-
-
 	}
-
-
-
-
-
-
-
-
-
 	return 0;
 }
